@@ -1,7 +1,7 @@
 ## Education & Interests
 
-- **Major**: Sungshin Women's University Service Design Engineering (Primary) · Computer Science (Double Major) 
-- **Interests**: Frontend Development, UI/UX Design
+**Major**: Sungshin Women's University Service Design Engineering (Primary) · Computer Science (Double Major) 
+**Interests**: Frontend Development, UI/UX Design
 
 
 <br/>
@@ -30,7 +30,7 @@
 
 ## Contact
 
-- **Email**: seongyeon0810@naver.com, 20231000@sungshin.ac.kr
+**Email**: seongyeon0810@naver.com, 20231000@sungshin.ac.kr
 
 
 <br/>
