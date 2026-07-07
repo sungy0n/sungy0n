@@ -1,6 +1,7 @@
 ## Education & Interests
 
 **Major**: Sungshin Women's University Service Design Engineering (Primary) · Computer Science (Double Major) 
+
 **Interests**: Frontend Development, UI/UX Design
 
 
